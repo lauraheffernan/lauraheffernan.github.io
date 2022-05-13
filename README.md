@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LIT 1234 Documentary Aesthetics and the Florida Federal Writers Project
 
 You can use the [editor on GitHub](https://github.com/lauraheffernan/lauraheffernan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
